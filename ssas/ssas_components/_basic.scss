@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+:root {
+  // Color
+  --background_color: #272727;
+  --base_yellow: #fcd54c;
+  // Fonts
+  --bold: 700;
+  --semi_bold: 600;
+  --regular: 400;
+}
+body {
+  background-color: var(--background_color);
+}
